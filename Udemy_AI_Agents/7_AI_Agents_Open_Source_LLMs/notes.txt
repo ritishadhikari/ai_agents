@@ -1,0 +1,3 @@
+https://ollama.com/  - Open source GenAI Models to download
+ollama list : List all the models available
+ollama run llama3.1:8b : Run the a specific model. Here llama3.1:8b is being run
